@@ -1,0 +1,41 @@
+[ {
+  "uid" : "7e2617105148efc9",
+  "name" : "test_edit_shopping_cart",
+  "time" : {
+    "start" : 1644219444457,
+    "stop" : 1644219444458,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a036f732f1064ee",
+  "name" : "test_add_goods_cart",
+  "time" : {
+    "start" : 1644219444446,
+    "stop" : 1644219444449,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a332b0df992b74be",
+  "name" : "test_continue_shopping_cart",
+  "time" : {
+    "start" : 1644219444454,
+    "stop" : 1644219444455,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da446a62d0db659c",
+  "name" : "test_delete_shopping_cart",
+  "time" : {
+    "start" : 1644219444459,
+    "stop" : 1644219444459,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

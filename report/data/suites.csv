@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 07 15:37:24 CST 2022","Mon Feb 07 15:37:24 CST 2022","1","","test_allure_shopping","TestAllure","","","test_continue_shopping_cart",""
+"passed","Mon Feb 07 15:37:24 CST 2022","Mon Feb 07 15:37:24 CST 2022","1","","test_allure_shopping","TestAllure","","","test_edit_shopping_cart",""
+"passed","Mon Feb 07 15:37:24 CST 2022","Mon Feb 07 15:37:24 CST 2022","3","","test_allure_shopping","TestAllure","","","test_add_goods_cart",""
+"skipped","Mon Feb 07 15:37:24 CST 2022","Mon Feb 07 15:37:24 CST 2022","0","","test_allure_shopping","TestAllure","","","test_delete_shopping_cart",""

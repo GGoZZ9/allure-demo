@@ -1,0 +1,82 @@
+{
+  "uid" : "a332b0df992b74be",
+  "name" : "test_continue_shopping_cart",
+  "fullName" : "test_allure_shopping.TestAllure#test_continue_shopping_cart",
+  "historyId" : "62b16b98c76d9e72714238584a633b76",
+  "time" : {
+    "start" : 1644219444454,
+    "stop" : 1644219444455,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2a2393cc4bc3972f",
+      "name" : "4",
+      "source" : "2a2393cc4bc3972f.attach",
+      "type" : "text/plain",
+      "size" : 7
+    }, {
+      "uid" : "4ce92ad5493e2353",
+      "name" : "stdout",
+      "source" : "4ce92ad5493e2353.txt",
+      "type" : "text/plain",
+      "size" : 49
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "继续购物"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_shopping"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "CN-L200630.hcg.homecredit.net"
+  }, {
+    "name" : "thread",
+    "value" : "7265-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_shopping"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a332b0df992b74be.json",
+  "parameterValues" : [ ]
+}
